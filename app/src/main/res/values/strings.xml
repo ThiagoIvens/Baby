@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Babe</string>
+    <string name="cadastrar_evento">Cadastrar Evento</string>
+    
+    <string-array name="tipos">
+        <item>Dormiu</item>
+        <item>Acordou</item>
+        <item>Mamou</item>
+        <item>Trocou</item>
+    </string-array>
+
+    <string-array name= "tipoParaDormiu">
+        <item>Acordou</item>
+    </string-array>
+</resources>
